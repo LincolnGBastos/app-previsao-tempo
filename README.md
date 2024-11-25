@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app-previsao-tempo
 Descrição do Aplicativo
 Nome do Aplicativo: Previsão do Tempo
@@ -18,3 +19,13 @@ Como Funciona:
 O aplicativo se comunica com uma API de previsão do tempo para buscar dados meteorológicos em tempo real. O backend, desenvolvido em Node.js, gerencia as requisições e fornece as informações necessárias ao frontend em React, que as apresenta de forma clara e organizada.
 
 Com o Previsão do Tempo, você terá a previsão do clima na ponta dos dedos, facilitando seus planos diários e ajudando você a se preparar para o que está por vir!
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 491faf4 (feat: primeiro commit)
