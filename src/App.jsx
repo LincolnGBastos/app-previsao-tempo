@@ -2,7 +2,7 @@ import { useRef, useState } from 'react'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState()
   const inputContent = useRef()
 
   function searchCity(){
@@ -16,8 +16,6 @@ function App() {
         <button onClick={searchCity}>Consultar</button>
         <p />{inputContent.current.value}
       </div>
-
-
   )
 }
 
